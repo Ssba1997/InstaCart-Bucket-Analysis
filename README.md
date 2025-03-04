@@ -1,4 +1,4 @@
-# customer-retention-analysis-python
+# InstaCart Bucket Analysis
 ## Description:
 This repository contains the Customer Retention Analysis project, where Python is used to analyze customer data, identify churn risk factors, and build predictive models to enhance customer retention strategies. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning modeling to predict which customers are most likely to leave the company.
 # Overview
